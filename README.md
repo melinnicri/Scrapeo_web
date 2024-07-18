@@ -25,5 +25,5 @@ __La tercera pregunta, que se realice el Web scraping de una página web y se cr
 archivo final .cvs: [“ipsa.csv”](https://github.com/melinnicri/Scrapeo_web/blob/main/ipsa.csv).
 
 __4, 5 y 6 ta pregunta, en el ["pdf adjunto"](https://github.com/melinnicri/Scrapeo_web/blob/main/Evaluaci%C3%B3n%20Web%20ScrapingAH.pdf)__
-                          **Fin ..._@v**
+___________**Fin ..._@v**
 
