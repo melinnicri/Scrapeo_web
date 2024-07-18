@@ -16,7 +16,7 @@
 [“guion_extraido.txt"](https://github.com/melinnicri/Scrapeo_web/blob/main/guion_extraido.txt).
 
 
-**La tercera pregunta, que se realice el Web scraping de una página web y se cree un dataframe (en *.csv) en donde extraiga la información de la tabla.**
+**La tercera pregunta, que se realice el Web scraping de una página web y se cree un dataframe (en *.csv) en donde extraiga la información de la tabla:**
 * Realizado en Colab de Google, subido a ["Scrapeo_web: Cómo scrapear una página web"](https://github.com/melinnicri/Scrapeo_web).
 * En el notebook [“TablaWiki.ipynb.ipynb”](https://github.com/melinnicri/Scrapeo_web/blob/main/TablaWiki.ipynb),
 archivo final .cvs: [“ipsa.csv”](https://github.com/melinnicri/Scrapeo_web/blob/main/ipsa.csv).
