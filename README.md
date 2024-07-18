@@ -9,7 +9,7 @@
 * El archivo de salida es un csv, llamado ["pedido.csv"](https://github.com/melinnicri/Scrapeo_web/blob/main/pedido.csv)
 
 
-**La segunda pregunta es utilizando la misma página anterior, se realice la extracción del guion de una película (en *.csv o *.txt):**
+**La segunda pregunta es utilizando la misma página anterior, se realice la extracción del guión de una película (en *.csv o *.txt):**
 * Realizado en Colab de Google, subido a ["Scrapeo_web: Cómo scrapear una página web"](https://github.com/melinnicri/Scrapeo_web).
 * En el notebook [“Guion02.ipynb”](https://github.com/melinnicri/Scrapeo_web/blob/main/Guion02.ipynb), archivo final .txt: si es el resumen inicial
 [“guion_texto.txt"](https://github.com/melinnicri/Scrapeo_web/blob/main/guion_texto.txt); si es a continuación del resumen
